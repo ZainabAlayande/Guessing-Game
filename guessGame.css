@@ -1,0 +1,77 @@
+body {
+    background-color: #22262B;
+}
+
+.first-main-container {
+
+    margin-top: 7%;
+    width: 90%;
+    padding-left: -20%;
+    padding-right: -1%;
+
+
+}
+
+.main-container {
+    background-color: #065569;
+    border: 1px solid palevioletred;
+    width: 45%;
+    margin: 2%;
+
+}
+
+.first-container {
+    padding-top: 7%;
+    color: white;
+    font-size: 200%;
+    font-weight: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.second-container {
+    padding-top: 15%;
+    padding-bottom: 4%;
+}
+
+.guessBar {
+    width: 25%;
+    height: 35px;
+}
+
+.guess {
+    width: 13%;
+    border: 1px solid white;
+    background-color: black;
+    height: 35px;
+    color: white;
+}
+
+.third-container {
+    color: white;
+    font-style: italic;
+    padding-bottom: 5%;
+}
+
+.last-container {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.exitGame {
+    width: 20%;
+    height: 35px;
+    background-color: red;
+    color: white;
+    font-size: medium;
+    border: 1.5px solid white;
+
+}
+
+.playGame {
+    width: 20%;
+    height: 35px;
+    background-color: green;
+    color: black;
+    font-size: medium;
+    border: 1.5px solid white;
+}
